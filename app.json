@@ -4,11 +4,11 @@
     "slug": "transaction-record",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/laravel.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash-icon.png",
+      "image": "./assets/laravel.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -17,13 +17,13 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/laravel.png",
         "backgroundColor": "#ffffff"
       },
       "package": "com.rafly_rizqullah.transactionrecord"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/laravel.png"
     },
     "extra": {
       "eas": {
